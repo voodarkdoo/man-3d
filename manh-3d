@@ -18,3 +18,4 @@
            (+ (manh-3d (- i 1) j k) (manh-3d (- j 1) i k) (manh-3d (- k 1) i j)))
           ))
   )
+; how are you?
